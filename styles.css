@@ -1,0 +1,16 @@
+
+body{
+    background: rgb(127, 145, 136)
+  }
+h2 {
+  text-align: center;
+}
+#leftSide{
+  text-align: left;
+}
+#rightSide {
+  text-align: right;
+}
+html, body {
+  min-height: 100vh;
+}
